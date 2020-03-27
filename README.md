@@ -1,6 +1,6 @@
 # Algorithm problem
 Input: Polish notation\
-Output: Summarized version\
+Output: Summarized version
 
 1. It seems we are only asked to summarize the numerical expressions. 
 2. For example, we could summarize operations with zero and one, but the problem has not asked. 
